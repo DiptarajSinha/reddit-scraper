@@ -39,8 +39,9 @@ GEMINI_API_KEY=your_gemini_api_key
 ```
 python main.py
 Enter a Reddit user profile URL: https://www.reddit.com/user/Hungry-Move-6603/
-It will generate a file like: Hungry-Move-6603_persona.txt
 ```
+It will generate a file like: `Hungry-Move-6603_persona.txt`
+
 ### Example Output
 See ```Hungry-Move-6603_persona.txt``` for a complete sample persona generated from real Reddit data.
 
