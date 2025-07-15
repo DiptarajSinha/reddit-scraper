@@ -19,7 +19,7 @@ It scrapes a Reddit user’s posts/comments and generates a structured user pers
 
 ```
 git clone https://github.com/DiptarajSinha/reddit-scraper
-cd BeyondChats
+cd <root-project-directory>
 ```
 ### 2. Install dependencies
 ```
